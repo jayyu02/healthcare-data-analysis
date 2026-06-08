@@ -67,6 +67,9 @@ from real-world healthcare data.
 ### Heatmap
 ![Heatmap](healthcare_heatmap.png)
 
+## Tableau Dashboard
+[View Live Healthcare Analytics Dashboard](https://public.tableau.com/app/profile/jaya.mundre/viz/HealthcareAnalyticsDashboard_17809515397400/Dashboard1)
+
 ## Connect
 - LinkedIn: www.linkedin.com/in/jaya-mundre
 - Email: jassimundre99@gmail.com
