@@ -62,4 +62,12 @@ from real-world healthcare data.
 ![Dashboard](healthcare_dashboard.png)
 
 ### Advanced Analysis
-![Advanced]
+![Advanced](healthcare_advanced.png)
+
+### Heatmap
+![Heatmap](healthcare_heatmap.png)
+
+## Connect
+- LinkedIn: www.linkedin.com/in/jaya-mundre
+- Email: jassimundre99@gmail.com
+- GitHub: github.com/jayyu02
